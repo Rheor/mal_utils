@@ -1,0 +1,3 @@
+git+git://github.com/AWConant/jikanpy.git
+bs4
+requests
